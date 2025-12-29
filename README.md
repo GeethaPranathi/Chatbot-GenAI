@@ -66,7 +66,7 @@ The system is stateless, meaning no memory is stored between sessions. The chatb
 3. **Open the browser and go to**
    ```bash
    -http://localhost:8000
-5. **Type your message and interact with the chatbot# Flask Chatbot with Gemini AI
+5. **Type your message and interact with the chatbot
    
 ## Key Concepts
 
