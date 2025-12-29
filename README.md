@@ -90,3 +90,13 @@ The system is stateless, meaning no memory is stored between sessions. The chatb
 - Used for semantic search or **RAG (Retrieval-Augmented Generation)**.
 - Helps find relevant information or generate context-aware responses.
 
+## License
+This project is open-source. Feel free to use and modify it for learning purposes.
+
+You can copy all of this directly into a file named `README.md` in your project.  
+
+If you want, I can also make a **version with example `app.py` code and HTML integration** ready to run, so someone can start the chatbot immediately.  
+
+Do you want me to do that?
+
+
