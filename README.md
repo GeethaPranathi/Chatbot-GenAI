@@ -53,6 +53,7 @@ The system is stateless, meaning no memory is stored between sessions. The chatb
    -conda info --envs
    -conda activate tf
 4. **Install dependencies**
+   ```bash
    -pip install flask requests
 # Add any other required packages
 4. **Set up Gemini API**
@@ -60,10 +61,12 @@ The system is stateless, meaning no memory is stored between sessions. The chatb
    - Add your API key to the project configuration
 ## Usage
 1. **Run the Flask App:**
+   ```bash
    -python app.py
 3. **Open the browser and go to**
+   ```bash
    -http://localhost:8000
-4. **Type your message and interact with the chatbot# Flask Chatbot with Gemini AI
+5. **Type your message and interact with the chatbot# Flask Chatbot with Gemini AI
    
 ## Key Concepts
 
