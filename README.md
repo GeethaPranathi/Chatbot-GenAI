@@ -99,8 +99,7 @@ If you want, I can also make a **version with example `app.py` code and HTML int
 
 Do you want me to do that?
 
-## ---
-
+## 
 ✅ Done by: Geetha Pranathi Kanala
 
 
