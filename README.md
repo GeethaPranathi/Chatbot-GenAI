@@ -48,7 +48,7 @@ The system is stateless, meaning no memory is stored between sessions. The chatb
    git clone https://github.com/your-username/Gemini-Chatbot.git
    cd Gemini-Chatbot
 2. **Create virtual environment**
-   '''bash
+   ```bash
    -conda create -p venv python==3.11
    -conda info --envs
    -conda activate tf
