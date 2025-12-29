@@ -48,10 +48,13 @@ The system is stateless, meaning no memory is stored between sessions. The chatb
    git clone https://github.com/your-username/Gemini-Chatbot.git
    cd Gemini-Chatbot
 2. **Create virtual environment**
+   conda create -p venv python==3.11
+conda activate venv
+
    -conda create -p venv python==3.11
    -conda info --envs
    -conda activate tf
-3. **Install dependencies**
+4. **Install dependencies**
    -pip install flask requests
 # Add any other required packages
 4. **Set up Gemini API**
