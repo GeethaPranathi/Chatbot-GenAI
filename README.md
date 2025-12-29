@@ -48,21 +48,21 @@ The system is stateless, meaning no memory is stored between sessions. The chatb
    git clone https://github.com/your-username/Gemini-Chatbot.git
    cd Gemini-Chatbot
 2. **Create virtual environment**
-   conda create -p venv python==3.11
-   conda info --envs
-   conda activate tf
+   -conda create -p venv python==3.11
+   -conda info --envs
+   -conda activate tf
 3. **Install dependencies**
-   pip install flask requests
+   -pip install flask requests
 # Add any other required packages
 4. **Set up Gemini API**
    - Create a new API key in Google AI Studio
    - Add your API key to the project configuration
 ## Usage
 1. **Run the Flask App:**
-   python app.py
-2. **Open the browser and go to**
-   http://localhost:8000
-3. **Type your message and interact with the chatbot# Flask Chatbot with Gemini AI
+   -python app.py
+3. **Open the browser and go to**
+   -http://localhost:8000
+4. **Type your message and interact with the chatbot# Flask Chatbot with Gemini AI
    
 ## Key Concepts
 
